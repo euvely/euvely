@@ -12,32 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&text=Welcome%20to%20Eugene's%20github!&fontAlignY=40&fontSize=35&height=220)
-
-</div><br>
-## About Me
-<div style="display:flex;">
-  
-</div><br>
-
-## Skills
-<div style="display:flex; flex-direction:row;">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-</div><br>
-
-
-
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20Eugene's%20github!&fontSize=35" />	
+	<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=220&section=header&text=Welcome%20to%20Eugene's%20github!&fontSize=35" />	
 </div>
 <div align=center>
+	<h2>💬 About Me 💬</h2>
+	<p>- 🔭 Major in department of IT Engineering & Big Data Analytics </p>
+	<p>- 😄 Interested in data analytics, ML, AI </p>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -65,15 +46,8 @@ Here are some ideas to get you started:
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euvely&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=euvely&show_icons=true">
 
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=euvely)
 
 <br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
 </div>
 <br>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
